@@ -50,7 +50,7 @@
                        <strong>
                         Bairro: 
                        </strong> 
-                       {{ data.endereco.bairro }},
+                       {{ data.endereco.bairro }}
                     </div>
                 </div>
                 <div class="row">
@@ -64,7 +64,7 @@
                 <div class="row">
                     <div class="col-9">
                         <strong>
-                            Uf::
+                            Uf:
                         </strong>
                          {{ data.endereco.uf }}
                     </div>
